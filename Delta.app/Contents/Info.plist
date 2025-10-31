@@ -22,7 +22,9 @@
 	<key>CFBundleExecutable</key>
 	<string>OMCApplet</string>
 	<key>CFBundleIconFile</key>
-	<string>app.icns</string>
+	<string>Delta</string>
+	<key>CFBundleIconName</key>
+	<string>Delta</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.abracode.Delta</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -49,9 +51,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.0.1</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.15</string>
+	<string>11.0</string>
 	<key>NSAppleEventsUsageDescription</key>
 	<string>Delta.app send AppleEvents to other apps to open the report</string>
 	<key>NSMainNibFile</key>

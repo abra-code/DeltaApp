@@ -9,15 +9,15 @@
 			<array>
 			</array>
 			<key>EXECUTION_MODE</key>
-			<string>exe_popen</string>
+			<string>exe_shell_script</string>
 			<key>NAME</key>
 			<string>Delta</string>
 			<key>NEXT_COMMAND_ID</key>
 			<string>delta.new</string>
 			<key>REQUIRED_MAC_OS_MIN_VERSION</key>
-			<string>10.15</string>
+			<string>11.0</string>
 			<key>REQUIRED_OMC_VERSION</key>
-			<string>4.2.0</string>
+			<string>4.3.0</string>
 			<key>VERSION</key>
 			<integer>1</integer>
 		</dict>
@@ -28,7 +28,7 @@
 			<key>COMMAND_ID</key>
 			<string>delta.new</string>
 			<key>EXECUTION_MODE</key>
-			<string>exe_popen</string>
+			<string>exe_shell_script</string>
 			<key>NAME</key>
 			<string>Delta</string>
 			<key>NIB_DIALOG</key>
@@ -37,15 +37,13 @@
 				<string>delta.init</string>
 				<key>IS_BLOCKING</key>
 				<false/>
-				<key>IS_COCOA</key>
-				<true/>
 				<key>NIB_NAME</key>
 				<string>Delta</string>
 			</dict>
 			<key>REQUIRED_MAC_OS_MIN_VERSION</key>
-			<string>10.15</string>
+			<string>11.0</string>
 			<key>REQUIRED_OMC_VERSION</key>
-			<string>4.2.0</string>
+			<string>4.3.0</string>
 		</dict>
 		<dict>
 			<key>COMMAND_ID</key>
@@ -73,7 +71,7 @@
 			<key>COMMAND_ID</key>
 			<string>delta.save.as</string>
 			<key>EXECUTION_MODE</key>
-			<string>exe_popen</string>
+			<string>exe_shell_script</string>
 			<key>NAME</key>
 			<string>Delta</string>
 			<key>NEXT_COMMAND_ID</key>
