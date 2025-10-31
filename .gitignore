@@ -1,5 +1,8 @@
+## macOS
+.DS_Store
 
-Delta.app/Contents/Frameworks
-icon work
-Delta.app/Contents/MacOS
-Delta.app/Contents/_CodeSignature/CodeResources
+## User settings
+xcuserdata/
+
+*/Contents/Frameworks/
+*/Contents/MacOS/
